@@ -1,0 +1,8 @@
+Data Collection
+Web History: We may collect information about the web pages you visit while using our Amazon Wishlist Chrome Extension. This includes page titles, URLs, and timestamps.
+User Activity: We may collect data about your interactions with the extension, such as clicks, mouse movements, and scrolling behavior.
+Website Content: We may process the content of websites you visit through the extension, including text, images, sounds, videos, and hyperlinks.
+Data Usage and Sharing
+Single-Purpose Use: We strictly limit the use of your data to the specific purpose of providing the functionality of our Amazon Wishlist Chrome Extension. We do not use or transfer your data for any other purposes.
+No Third-Party Sales or Transfers: We do not sell or transfer your personal data to third parties, except as necessary to provide the extension's functionality or comply with legal requirements.
+No Creditworthiness or Lending Purposes: We do not use or transfer your data to determine creditworthiness or for lending purposes.
